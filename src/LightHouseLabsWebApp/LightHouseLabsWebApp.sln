@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightHouseLabsWebApp", "LightHouseLabsWebApp\LightHouseLabsWebApp.csproj", "{433BD7D5-D047-4D35-8B4D-2D6655B878FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{433BD7D5-D047-4D35-8B4D-2D6655B878FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433BD7D5-D047-4D35-8B4D-2D6655B878FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433BD7D5-D047-4D35-8B4D-2D6655B878FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433BD7D5-D047-4D35-8B4D-2D6655B878FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85AB2BD9-512F-4D77-854E-DB0FE92AC991}
+	EndGlobalSection
+EndGlobal
