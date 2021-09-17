@@ -16,10 +16,10 @@ Workshop delivery as a virtual instructor-led training; lecture & hands-on learn
 
 In this session, you will learn how to:
 - [Lab 01](./Sessions/Session_1-Host-Web-App-Azure-App-Service/Instructions/Labs/01/Lab01.md) - Use the Azure portal to create an Azure App Service web app
-- [Lab 02](./Sessions/Session_1-Host-Web-App-Azure-App-Service/Instructions/Labs/01/Lab02.md) - Use developer tools to create the code for a starter web application and deploy to Azure
-- [Lab 03](./Sessions/Session_1-Host-Web-App-Azure-App-Service/Instructions/Labs/01/Lab03.md) - Learn how to scale your app up and out with Autoscale
-- [Lab 04](./Sessions/Session_1-Host-Web-App-Azure-App-Service/Instructions/Labs/01/Lab04.md) - Use deployments slot for staging new deployments and testing in production
-- [Lab 05](./Sessions/Session_1-Host-Web-App-Azure-App-Service/Instructions/Labs/01/Lab05.md) - Clean up your resources
+- [Lab 02](./Sessions/Session_1-Host-Web-App-Azure-App-Service/Instructions/Labs/02/Lab02.md) - Use developer tools to create the code for a starter web application and deploy to Azure
+- [Lab 03](./Sessions/Session_1-Host-Web-App-Azure-App-Service/Instructions/Labs/03/Lab03.md) - Learn how to scale your app up and out with Autoscale
+- [Lab 04](./Sessions/Session_1-Host-Web-App-Azure-App-Service/Instructions/Labs/04/Lab04.md) - Use deployments slot for staging new deployments and testing in production
+- [Lab 05](./Sessions/Session_1-Host-Web-App-Azure-App-Service/Instructions/Labs/05/Lab05.md) - Clean up your resources
 
 Other labs:
 - Try out a **Microsoft Learn** training module to [Host a web application in Azure App Service](https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/)
