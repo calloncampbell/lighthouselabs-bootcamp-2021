@@ -2,11 +2,11 @@
 
 ## Learning objectives
 In this module, you will learn how to:
-- [Lab 01](./01/lab01.md) - Use the Azure portal to create an Azure App Service web app
-- [Lab 02](./02/lab02.md) - Use developer tools to create the code for a starter web application and deploy to Azure
-- [Lab 03](./03/lab03.md) - Learn how to scale your app up and out with Autoscale
-- [Lab 04](./04/lab04.md) - Use deployments slot for staging new deployments and testing in production
-- [Lab 05](./05/lab05.md) - Clean up your resources
+- [Lab 01](./01/Lab01.md) - Use the Azure portal to create an Azure App Service web app
+- [Lab 02](./02/Lab02.md) - Use developer tools to create the code for a starter web application and deploy to Azure
+- [Lab 03](./03/Lab03.md) - Learn how to scale your app up and out with Autoscale
+- [Lab 04](./04/Lab04.md) - Use deployments slot for staging new deployments and testing in production
+- [Lab 05](./05/Lab05.md) - Clean up your resources
 
 ## Prerequisites
 - Ability to navigate the Azure portal
