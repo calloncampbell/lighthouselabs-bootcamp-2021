@@ -1,4 +1,4 @@
-# lighthouselabs-bootcamp-2021
+# Lighthouse Labs Bootcamp 2021
 
 ## Overview
 To increase the knowledge of Microsoft Azure within the Developer Community.
