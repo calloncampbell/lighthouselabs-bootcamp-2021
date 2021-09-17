@@ -1,4 +1,4 @@
-# Lab 03 - Using Deployment Slots for staging your Web App deployments
+# Lab 04 - Using Deployment Slots for staging your Web App deployments
 
 ## Prerequisites
 
