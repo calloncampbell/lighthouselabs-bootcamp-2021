@@ -1,12 +1,12 @@
 # Session 1 - Host a web application with Azure App Service
 
 ## Learning objectives
-In this module, you will:
-- Use the Azure portal to create an Azure App Service web app
-- Use developer tools to create the code for a starter web application
-- Deploy your code to App Service
-- Learn how to scale your app up and out
-- Use deployments slot for staging new deployments
+In this module, you will learn how to:
+- [Lab 01](./01/lab01.md) - Use the Azure portal to create an Azure App Service web app
+- [Lab 02](./02/lab02.md) - Use developer tools to create the code for a starter web application and deploy to Azure
+- [Lab 03](./03/lab03.md) - Learn how to scale your app up and out with Autoscale
+- [Lab 04](./04/lab04.md) - Use deployments slot for staging new deployments and testing in production
+- [Lab 05](./05/lab05.md) - Clean up your resources
 
 ## Prerequisites
 - Ability to navigate the Azure portal

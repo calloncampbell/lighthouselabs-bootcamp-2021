@@ -14,12 +14,20 @@ Workshop delivery as a virtual instructor-led training; lecture & hands-on learn
 
 ### Session 1 - Host a web application with Azure App Service
 
-In this session, you will:
-- Use the Azure portal to create an Azure App Service web app
-- Use developer tools to create the code for a starter web application
-- Deploy your code to App Service
-- Learn how to scale your app up and out
-- Use deployments slot for staging new deployments
+In this session, you will learn how to:
+- [Lab 01](./sessions/session_1-host-web-app-azure-app-service/instructions/labs/01/lab01.md) - Use the Azure portal to create an Azure App Service web app
+- [Lab 02](./sessions/session_1-host-web-app-azure-app-service/instructions/labs/02/lab02.md) - Use developer tools to create the code for a starter web application and deploy to Azure
+- [Lab 03](./sessions/session_1-host-web-app-azure-app-service/instructions/labs/03/lab03.md) - Learn how to scale your app up and out with Autoscale
+- [Lab 04](./sessions/session_1-host-web-app-azure-app-service/instructions/labs/04/lab04.md) - Use deployments slot for staging new deployments and testing in production
+- [Lab 05](./sessions/session_1-host-web-app-azure-app-service/instructions/labs/05/lab05.md) - Clean up your resources
+
+Other labs:
+- Try out a **Microsoft Learn** training module to [Host a web application in Azure App Service](https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/)
+    - 25 minutes
+    - Sandboxed environment (only a browser is required)
+        - No Azure subscription required
+        - No developer tools required
+    - Lightly covers the topics in Lab01 and Lab02
 
 ## Resources
 
